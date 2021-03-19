@@ -1,7 +1,7 @@
 //On the top of your Program File you are submitting:
 //use comments:
 //Name: Ramandeep Kaur dhandwal
-//Student ID:201906713
+//Student ID:201903671
 //Date Submitted:03/20/2021
 //Class IN2203 Section Number G1
 //Name of work: Assignment 1: The gambling Game
